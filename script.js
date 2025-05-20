@@ -6,25 +6,25 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
   {
-    enunciado: "Pergunta 1",
-    alternativas: ["Alternativa 1", "Alternativa 2"],
+    enunciado: "Qual é os times do brasil mais ajudado pelo var",
+    alternativas: ["flamengo", "Palmeiras"],
   },
   {
-    enunciado: "Pergunta 2",
-    alternativas: ["Alternativa 1", "Alternativa 2"],
+    enunciado: "Times com mais mundial do brasil",
+    alternativas: ["São Paulo", "Corinthans],
   },
  {
-enunciado: "Pergunta 3",
-    alternativas: ["Alternativa 1", "Alternativa 2"],
+enunciado: "Quem é melhor jogador da historia do futebol",
+    alternativas: ["pele", "messi"],
    },
  { 
 
-enunciado: "Pergunta 4",
-    alternativas: ["Alternativa 1", "Alternativa 2"],
+enunciado: "qual time da europa fez a melhor campanha de 2000 pra cá",
+    alternativas: ["Real Madrid", "Barcelona"],
    },
  {
 
-enunciado: "Pergunta 5",
-    alternativas: ["Alternativa 1", "Alternativa 2"],
+enunciado: "melhores driblador do brasil",
+    alternativas: ["Neymar JR", "Ronaldinho"],
   },
 ];
